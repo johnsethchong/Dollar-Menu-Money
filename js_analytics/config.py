@@ -4,3 +4,5 @@ yelp_api_key = '9nJV8mKF__qDKP8k7GzWFOoTbXjCPTCKDliNkjhv4jFyBukbefp-V1HA0gl1TYnC
 
 census_key = "85ac64b6b5a9c0901b00329d1ef41f0c53ccfc98" 
 #rcvd from Chris in class
+
+gkey = "your gmap key"
